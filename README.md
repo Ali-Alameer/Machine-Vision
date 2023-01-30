@@ -7,13 +7,13 @@ Open the terminal or command prompt and navigate to the directory where you want
 
 Type the following command:
 
-###bash
+### bash
 git clone https://github.com/Ali-Alameer/Machine-Vision.git
 This will clone the entire repository to your computer.
 
 To ensure that you have the latest version of the repository, type the following command:
 
-###bash
+### bash
 git pull
 Now, you are ready to explore the repository and start running the examples. The repository includes instructions for running each example, as well as the necessary data and models.
 
