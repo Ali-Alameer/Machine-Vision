@@ -9,14 +9,16 @@ Type the following command:
 
 ### bash
 git clone https://github.com/Ali-Alameer/Machine-Vision.git
+
 This will clone the entire repository to your computer.
 
 To ensure that you have the latest version of the repository, type the following command:
 
 ### bash
 git pull
+
 Now, you are ready to explore the repository and start running the examples. The repository includes instructions for running each example, as well as the necessary data and models.
 
 By cloning this repository, you will have access to a collection of well-documented machine vision examples that you can use as a starting point for further experimentation and development. Whether you are a seasoned machine learning practitioner or just starting out in the field, this repository provides a valuable resource for exploring the exciting world of computer vision.
 
-![Image showing diagram mapping AI fairness](https://imageio.forbes.com/specials-images/imageserve/5da005827fa7e00007cb3db4/0x0.jpg?format=jpg&width=1200)
+!(https://imageio.forbes.com/specials-images/imageserve/5da005827fa7e00007cb3db4/0x0.jpg?format=jpg&width=1200)
