@@ -21,4 +21,4 @@ Now, you are ready to explore the repository and start running the examples. The
 
 By cloning this repository, you will have access to a collection of well-documented machine vision examples that you can use as a starting point for further experimentation and development. Whether you are a seasoned machine learning practitioner or just starting out in the field, this repository provides a valuable resource for exploring the exciting world of computer vision.
 
-!(https://imageio.forbes.com/specials-images/imageserve/5da005827fa7e00007cb3db4/0x0.jpg?format=jpg&width=1200)
+[]!(https://imageio.forbes.com/specials-images/imageserve/5da005827fa7e00007cb3db4/0x0.jpg?format=jpg&width=1200)
