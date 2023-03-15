@@ -24,3 +24,24 @@ Now, you are ready to explore the repository and start running the examples. The
 By cloning this repository, you will have access to a collection of well-documented machine vision examples that you can use as a starting point for further experimentation and development. Whether you are a seasoned machine learning practitioner or just starting out in the field, this repository provides a valuable resource for exploring the exciting world of computer vision.
 
 ![](https://imageio.forbes.com/specials-images/imageserve/5da005827fa7e00007cb3db4/0x0.jpg?format=jpg&width=1200)
+
+## Usage examples
+
+### Pig parts detection 
+
+
+[![pig parts detection](http://lowe.cs.ucl.ac.uk/images/youtube.png)](https://www.youtube.com/shorts/5PXXEmNRAiU)  
+*Video of pig parts detection which measure the contacts between pig parts 
+
+---
+```
+@article{alameer2022automated,
+  title={Automated detection and quantification of contact behaviour in pigs using deep learning},
+  author={Alameer, Ali and Buijs, Stephanie and O'Connell, Niamh and Dalton, Luke and Larsen, Mona and Pedersen, Lene and Kyriazakis, Ilias},
+  journal={biosystems engineering},
+  volume={224},
+  pages={118--130},
+  year={2022},
+  publisher={Elsevier}
+}
+```
