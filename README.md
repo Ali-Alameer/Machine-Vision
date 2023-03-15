@@ -30,7 +30,7 @@ By cloning this repository, you will have access to a collection of well-documen
 ### Pig parts detection 
 
 
-[![pig parts detection](https://www.youtube.com/shorts/5PXXEmNRAiU)  
+[![pig parts detection](https://ars.els-cdn.com/content/image/1-s2.0-S1537511022002240-gr4.jpg)](https://www.youtube.com/shorts/5PXXEmNRAiU) 
 *Video of pig parts detection which measure the contacts between pig parts 
 
 ---
